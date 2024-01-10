@@ -63,6 +63,9 @@ body{
     color: #fff;
     text-decoration: none;
 }
+.remember-forgot a:hover{
+    color: rgb(29, 243, 243) ;
+}
 
 
 .btn{
@@ -92,6 +95,6 @@ body{
     color: #fff;
     text-decoration: none;
 }
-.register-link p a :hover{
-  color: rgb(15, 68, 68) ;
+.register-link p a:hover{
+  color: rgb(29, 243, 243) ;
 }
