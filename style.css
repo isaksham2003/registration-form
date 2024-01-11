@@ -98,3 +98,11 @@ body{
 .register-link p a:hover{
   color: rgb(29, 243, 243) ;
 }
+input[type=text], input[type=password], textarea { 
+   
+    background:  rgba(155, 48, 222, 0.468);
+}
+input[type=text]:focus, input[type=password]:focus {  
+    background-color: rgb(148, 18, 229);  
+    outline: none;  
+  } 
